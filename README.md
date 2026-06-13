@@ -14,7 +14,7 @@
 
 **Libraries:** Pandas · NumPy · Scikit-learn · Matplotlib · Seaborn
 
-**BI Tools:** Power BI · DAX · Power Query · Advanced Excel
+**BI Tools:** Power BI · DAX · Power Query · Tableau · Advanced Excel
 
 **Other:** Git · EDA · Feature Engineering · Machine Learning
 
