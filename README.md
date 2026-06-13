@@ -1,10 +1,10 @@
 # Hi, I'm Apurva Vishwakarma 👋
 
-🎓 PGP in Data Analytics & Machine Learning | B.Sc. Mathematics — Savitribai Phule Pune University
+🎓 PGP in Data Analytics & Machine Learning | B.Sc. Mathematics - Savitribai Phule Pune University
 
 📊 Data Analyst | Python · SQL · Power BI · Machine Learning
 
-📍 Pune, India | Open to Data Analyst & ML roles — on-site, remote, hybrid
+📍 Pune, India | Open to Data Analyst & ML roles - on-site, remote, hybrid
 
 ---
 
