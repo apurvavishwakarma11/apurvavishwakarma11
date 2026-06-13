@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Apurva Vishwakarma 👋
 
-<!--
-**apurvavishwakarma11/apurvavishwakarma11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 PGP in Data Analytics & Machine Learning | B.Sc. Mathematics — Savitribai Phule Pune University
 
-Here are some ideas to get you started:
+📊 Data Analyst | Python · SQL · Power BI · Machine Learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📍 Pune, India | Open to Data Analyst & ML roles — on-site, remote, hybrid
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages:** Python · SQL · R
+
+**Libraries:** Pandas · NumPy · Scikit-learn · Matplotlib · Seaborn
+
+**BI Tools:** Power BI · DAX · Power Query · Advanced Excel
+
+**Other:** Git · EDA · Feature Engineering · Machine Learning
+
+---
